@@ -1,0 +1,9 @@
+{
+	"name": "dlox",
+	"authors": [
+		"Bjørn Tore Håvie"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2017, Bjørn Tore Håvie",
+	"license": "MIT"
+}
